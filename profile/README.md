@@ -4,7 +4,7 @@ Welcome to the Rocket Science project! Here, we're dedicated to crafting a compr
 
 ## Project Overview
 
-Our mission is to design, develop, and implement cutting-edge technologies that will propel our rocket to new heights. From the intricacies of onboard computing to the precision of telemetry data transmission, every aspect of our project is meticulously planned and executed.
+Our mission is to design, develop, and implement cutting-edge technologies that will propel our rocket to new heights. From the intricacies of on-board computing to the precision of telemetry data transmission, every aspect of our project is meticulously planned and executed.
 
 ## Key Features
 
