@@ -7,7 +7,7 @@ Rocket Science is designed to provide a complete solution for rocketry enthusias
 
 - **On-Board Computer** – A flight computer that processes sensor data, and executes flight algorithms.
 - **Hardware Schematics** – Detailed circuit designs and PCB layouts for all essential components.
-- **Sensor Fusion & Navigation** – **Kalman Filter** integrating multiple sensors (IMUs, barometers, GPS) for accurate positioning and control.
+- **Sensor Fusion & Navigation** – **Kalman Filter** integrating multiple sensors (IMUs, barometers, GPS) for accurate positioning.
 - **Ground Telemetry** – A real-time data transmission and visualization system for monitoring flight parameters from the ground.
 - **Radio Communication** – Implementation of LoRa-based communication between the rocket and ground station.
 
