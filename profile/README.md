@@ -11,6 +11,10 @@ Rocket Science is designed to provide a complete solution for rocketry enthusias
 - **Ground Telemetry** – A real-time data transmission and visualization system for monitoring flight parameters from the ground.
 - **Radio Communication** – Implementation of LoRa-based communication between the rocket and ground station.
 
+## 🖼️ Preview
+
+![](https://github.com/RocketScienceOfficial/.github/blob/main/img/Preview.jpg)
+
 ## 📁 Repositories
 Our GitHub organization hosts multiple repositories covering different aspects of the project. Explore them to find:
 - Firmware and software for the OBC
