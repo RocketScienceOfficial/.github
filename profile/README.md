@@ -1,27 +1,22 @@
-# Rocket Science Project
+# 🚀 Rocket Science
 
-Welcome to the Rocket Science project! Here, we're dedicated to crafting a comprehensive and sophisticated rocket on-board computer, complete with advanced telemetry, ground station control, and other essential systems. Our goal is to push the boundaries of space exploration through innovation and collaboration.
+Welcome to **Rocket Science**, an open-source project dedicated to building advanced rocketry systems. This project integrates hardware and software components to enable real-time data processing, telemetry, and control for high-performance flight applications.
 
-## Project Overview
+## 🌍 Overview
+Rocket Science is designed to provide a complete solution for rocketry enthusiasts, engineers, and researchers. It includes:
 
-Our mission is to design, develop, and implement cutting-edge technologies that will propel our rocket to new heights. From the intricacies of on-board computing to the precision of telemetry data transmission, every aspect of our project is meticulously planned and executed.
+- **On-Board Computer** – A flight computer that processes sensor data, and executes flight algorithms.
+- **Hardware Schematics** – Detailed circuit designs and PCB layouts for all essential components.
+- **Sensor Fusion & Navigation** – **Kalman Filter** integrating multiple sensors (IMUs, barometers, GPS) for accurate positioning and control.
+- **Ground Telemetry** – A real-time data transmission and visualization system for monitoring flight parameters from the ground.
+- **Radio Communication** – Implementation of LoRa-based communication between the rocket and ground station.
 
-## Key Features
+## 📁 Repositories
+Our GitHub organization hosts multiple repositories covering different aspects of the project. Explore them to find:
+- Firmware and software for the OBC
+- Hardware design files
+- Ground telemetry applications
+- Simulation and testing tools
 
-- **On-board Computer:** We're building a powerful on-board computer capable of handling complex calculations and ensuring the smooth operation of our rocket.
-- **Telemetry:** Our telemetry system provides real-time data transmission, allowing us to monitor the status and performance of the rocket during flight.
-- **Ground Station Control:** With our ground station control system, we can remotely command and control the rocket's functions, ensuring optimal performance and safety.
-
-## Get Involved
-
-Whether you're a seasoned engineer or a curious enthusiast, there are plenty of ways to get involved in the Rocket Science project:
-
-- **Contribute:** Dive into our codebase, submit pull requests, and help us improve our systems.
-- **Test and Feedback:** Test our systems, provide feedback, and help us identify areas for improvement.
-- **Spread the Word:** Share our project with your friends, colleagues, and networks to help us reach new heights.
-
-## Join Us
-
-Ready to join us on this exciting journey into space? Get started by exploring our project repository and diving into the code. Together, we can turn our vision of advanced rocket technology into a reality.
-
-Let's reach for the stars! 🚀
+## 📌 Get Involved
+Check out our repositories at [RocketScienceOfficial](https://github.com/RocketScienceOfficial) to explore the code, designs, and documentation. Stay tuned for updates as we push the boundaries of rocketry! 🚀
